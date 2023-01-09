@@ -1,0 +1,82 @@
+.align-center {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	text-align: center;
+}
+
+.bandmember {
+	height: 200px;
+	width: 200px;
+
+}
+
+.carousel-inner img {
+	width: 100%;
+}
+
+.select-menu {
+  display: none !important;
+}
+
+ul {
+  list-style: none;
+}
+
+.preffix_1 {
+	text-align: center;
+
+}
+
+.heading {
+	float: left !important;
+	width: 100%;
+	text-align: left;
+	border-bottom: 0.1px solid #ffffff;
+}
+
+.embed-video-row {
+	margin-bottom: 20px;
+}
+
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+
+
+#map {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	height: 400px;
+}
+
+
+.contact-google-map {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#band-title {
+	display: inline-block;
+}
+
+.socials-block {
+	float: right;
+	width: auto;
+	display: inline-block;
+	padding-top: 18px;
+	padding-right: 30px;
+}
